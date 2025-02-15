@@ -1,0 +1,10 @@
+button{
+    font-size: 24px;
+    font-weight:700;
+    background-color: #ffcb00;
+    padding: 10px 20px 10px 20px;
+}
+button:hover{
+    background-color: darkorange;
+    transition: 0.5s;
+}
